@@ -25,9 +25,9 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "https://drive.google.com/file/d/1gw96iZUxL5LpsK4OsHb85MiSao2YtFkq/view?usp=share_link",
+  portfolio_repository: "https://github.com/zenith1994/devportfolio",
+  githubProfile: "https://github.com/zenith1994",
 };
 
 const socialMediaLinks = [
@@ -46,12 +46,12 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
-  {
-    name: "Telegram",
-    link: "https://www.linkedin.com/in/ashutosh1919/",
-    fontAwesomeIcon: "fa-telegram", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
-    backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
-  },
+  // {
+  //   name: "Telegram",
+  //   link: "https://www.linkedin.com/in/ashutosh1919/",
+  //   fontAwesomeIcon: "fa-telegram", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
+  //   backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
+  // },
   // {
   //   name: "YouTube",
   //   link: "https://youtube.com/c/DevSense19",
@@ -65,8 +65,8 @@ const socialMediaLinks = [
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
-    name: "Skype",
-    link: "https://twitter.com/ashutosh_1919",
+    name: "live:.cid.59b2f5993f527441",
+    link: "https://web.skype.com/",
     fontAwesomeIcon: "fa-skype", // Reference https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
@@ -90,9 +90,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
+        "⚡ Building responsive website front end using JavaScript Frameworks such as React/Redux, Vue, Angular",
+        "⚡ Building website back end using JavaScript Frameworks such as Express and NestJS",
         "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
       ],
       softwareSkills: [
         {
@@ -482,7 +482,7 @@ const experience = {
           duration: "09/2021 – 01/2023",
           location: "California, US",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+          "Built up lead level experience in front-end development with Vue.js and Nuxt.js, leveraging CSS, with strong skills in Javascript, Typescript and Node.js.",
           color: "#0879bf",
         },
         {
@@ -492,8 +492,7 @@ const experience = {
           logo_path: "lineupappq.jpg",
           duration: "03/2019 – 08/2021",
           location: "New York, US",
-          description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+          description:"Designed and built Saas product with React and Node.js using Typescript for teachers and students to enable them to make digital interactive assignment and auto-scoring system.",
           color: "#9b1578",
         },
         {
@@ -504,7 +503,7 @@ const experience = {
           duration: "08/2016 – 01/2019",
           location: "Tokyo, Japan",
           description:
-            "FreeCopy is the Start up from Indian Institute of Management, Ahmedabad. I have changed the integration of the whole app from Google to Firebase. I learnt the efﬁcient ways of Data communications like Retroﬁt, Eventbus etc. I experienced the real time start up. I learnt the Design thinking of UI on perspective of People.",
+            "Designed and built 10+ web applications using React, Vue.js and Node.js. Designed and built real-time chat channel using socket.io (Node.js) for company website and increase communication agility up to 60%.",
           color: "#fc1f20",
         },
       ],
@@ -516,7 +515,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create JavaScript/TypeScript Full-stack projects and deploy them using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -578,7 +577,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_haruto.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "You can message me, I will reply within 24 hours. I can help you with all JavaScript frameworks including React, Next, Vue, Angular, Express, NestJS, Gatsby.js and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
