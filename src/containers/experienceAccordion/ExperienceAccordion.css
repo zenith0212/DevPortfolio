@@ -1,9 +1,11 @@
 .experience-accord {
   margin: 50px;
+  width: 100%;
 }
 
 .accord-panel {
   font-family: "Google Sans Regular";
+  padding: 30px;
 }
 
 @media (max-width: 768px) {
